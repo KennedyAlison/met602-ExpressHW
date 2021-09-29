@@ -4,7 +4,7 @@ Practice using Express with MongoDB
 # Overview 
 Part 1
 - _mongo_zipCodeModule_v2.js_ get data from a pre-populated MongoDB database 
-  - The _`_id`_ property is the zip code of a city, the _pop_ property is the population of the city, and the _city_ and _state_ properties are self-explanatory 
+  - The _\_id_ property is the zip code of a city, the _pop_ property is the population of the city, and the _city_ and _state_ properties are self-explanatory 
 - The client test code is provided in _client.js_ 
 
 Part 2
